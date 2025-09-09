@@ -7,4 +7,4 @@ elif numero_extenso == "dois":
 elif numero_extenso == "cinco":
     numero  = 5
 
-print (f"O número digita é: {numero}") 
+print (f"O número digita é: {numero}")
