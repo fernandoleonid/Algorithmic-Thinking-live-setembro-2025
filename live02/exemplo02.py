@@ -5,4 +5,5 @@ cliente = {
     "celular": "119717182828"
 }
 
+
 print (cliente["nome"])
